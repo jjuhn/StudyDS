@@ -3,24 +3,25 @@ Repository for Personal Data Science Project for Studying Purpose
 
 My initial goal is to finish all below projects. 
 
-Iris Data
-Titanic Data
-Loan Prediction Data
-Bigmart Sales Data
-Boston Housing Data
+#### Easy
+1. Iris Data
+2. Titanic Data
+3. Loan Prediction Data
+4. Bigmart Sales Data
+5. Boston Housing Data
 
+#### Intermediate
+1. Human Activity Recognition Data
+2. Black Friday Data
+3. Siam Competition Data
+4. Trip History Data
+5. Million Song Data
+6. Census Income Data
+7. Movie Lens Data
 
-Human Activity Recognition Data
-Black Friday Data
-Siam Competition Data
-Trip History Data
-Million Song Data
-Census Income Data
-Movie Lens Data
-
-
-Identify your Digits
-Yelp Data
-ImageNet Data
-KDD Cup 1998
-Chicago Crime Data
+#### Advanced
+1. Identify your Digits
+2. Yelp Data
+3. ImageNet Data
+4. KDD Cup 1998
+5. Chicago Crime Data
