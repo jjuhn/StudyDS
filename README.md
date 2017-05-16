@@ -3,6 +3,9 @@ Repository for Personal Data Science Project for Studying Purpose
 
 My initial goal is to finish all below projects. 
 
+https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+
 #### Easy
 1. Iris Data
 2. Titanic Data
